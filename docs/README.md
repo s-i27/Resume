@@ -44,63 +44,21 @@ xxx
 
 xxx
 
+### 資格・認定
+
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
+- AWS Certified SysOps Administrator – Associate
+- AWS Certified Solutions Architect – Professional
+- AWS Certified DevOps Engineer – Professional
+- AWS Certified Advanced Networking – Specialty
+- AWS Certified Security – Specialty
+- AWS Certified SAP on AWS – Specialty
+- AWS Certified Data Engineer – Associate
+- AWS Certified Machine Learning Engineer – Associate
+- AWS Certified AI Practitioner
+- AWS Certified Generative AI Developer – Professional
+
 ## 職務経歴詳細
-
-### xxx 企業
-
-#### xxx プロダクト
-
-【雇用形態】
-
-xxx
-
-【在籍期間】
-
-yyyy/mm/dd ~ yyyy/mm/dd
-
-【チーム編成】
-
-- PM x 人
-- バックエンドエンジニア x 人
-- フロントエンドエンジニア x 人
-
-【ステークホルダー】
-
-- クライアント x 社
-
-【言語・フレームワーク】
-
-xxx
-
-【インフラ】
-
-- AWS
-  - xxx
-
-【通信プロトコル】
-
-- xxx
-
-【ツール】
-
-xxx
-
-【プロダクトが属する業界】
-
-xxx 業界
-
-【プロダクト概要】
-
-xxx
-
-【チームの特徴・課題】
-
-xxx
-
-【チームでの役割】
-
-xxx
-
-【成果】
-
-xxx
+...
