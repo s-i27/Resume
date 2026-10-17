@@ -1,6 +1,4 @@
-# textlint cache
-.cache/
-
-# npm
-node_modules/
-package-lock.json
+# Node
+node_modules
+npm-debug.log
+.cache
